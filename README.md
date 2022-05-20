@@ -8,7 +8,6 @@ Currently I´m in the first year of Engineering and management of information sy
 
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [rodrigocralha@gmail.com](mailto:rodrigocralha@gmail.com)
-* 🧠  I'm currently learning Julia
 
 ### Skills
 
