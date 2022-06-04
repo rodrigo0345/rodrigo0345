@@ -10,11 +10,9 @@ I´m studying OpenGL and C++ on my own as graphics is a toppic that really got m
 
 Open to colaborate on Open-Source projects for sure!😉
 
-Still got no idea 
-
 
 * 🌍  I'm based in Braga/Portugal 
-* ✉️  You can contact me at [rodrigocralha@gmail.com](mailto:rodrigocralha@gmail.com)
+* ✉️  And you can contact me at [rodrigocralha@gmail.com](mailto:rodrigocralha@gmail.com)
 
 ### Skills
 
