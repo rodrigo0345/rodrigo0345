@@ -1,6 +1,5 @@
 <h1 align="">Rodrigo Casanova</h1>
 
-<br>
 <h2>About Me:</h2>
 
 <ul type="square">
