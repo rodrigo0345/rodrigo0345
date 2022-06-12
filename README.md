@@ -1,5 +1,7 @@
-<h1>Rodrigo Casanova</h1>
+<img align="left" src="https://fit4rri.eu/wp-content/uploads/2017/08/10-UMINHO-01-768x479.png" height="100" width="160" alt="Universidade do Minho logo">
+<h1 align="">Rodrigo Casanova</h1>
 
+<br>
 <h2>About Me:</h2>
 
 <ul type="square">
@@ -7,28 +9,22 @@
   <li>📖  I´m currently studying HTML and CSS on my own.</li>
   <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
-  <li>✉️  Send me an <a href = "mailto: rodrigocralha@gmail.com"> Email</a>!</li>
+  <li>✉️  Contact me through <a href = "mailto: rodrigocralha@gmail.com"> Email</a>!</li>
 </ul>
 
 <h2>Skills:</h2>
-
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="50" height="50" alt="Go" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="50" height="50" alt="MetaMask" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://numgrade.com/wp-content/uploads/2020/11/Logo_Formations_HTML.png" width="50" height="50" alt="MetaMask" /></a>
-</p>
+<ul type="square">
+  <li>Experience with C and C++</a>.</li>
+  <li>Experience with <a href="https://www.freecodecamp.org/certification/fcc14e961b3-4818-4ae8-8255-d8cc731041f7/scientific-computing-with-python-v7" target="_blank" rel="external">Python</a>.</li>
+  <li>Experience with JavaScript, HTML and CSS.</li>
+</ul>
 
 
-### Socials
+<h2>Social Media:</h2>
 
-<p align="left"> <a href="https://discord.com/users/Casanöva#2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Casanöva#2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rodrigo0345"><img src="https://github-readme-stats.vercel.app/api?username=rodrigo0345&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="rodrigo0345's GitHub stats" /></a>
+<h2>Stats:</h2>
+<img src="https://opensource.com/sites/default/files/uploads/image4.png" alt="Golang figures looking at a computer" align="right">
+<a href="http://www.github.com/rodrigo0345"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo0345&show_icons=true&hide=issues,&count_private=true&title_color=5a5ab9&text_color=ffffff&icon_color=5a5ab9&bg_color=0f172a&hide_border=true&show_icons=true" alt="rodrigo0345's stats" /></a>
 
