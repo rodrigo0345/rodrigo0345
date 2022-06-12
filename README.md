@@ -1,4 +1,4 @@
-<h1 align="">Rodrigo Casanova</h1>
+<h1 align="center">Rodrigo Casanova</h1>
 
 <h2>About Me:</h2>
 
