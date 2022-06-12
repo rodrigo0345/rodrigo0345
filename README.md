@@ -1,27 +1,24 @@
-Hello there! My name is Rodrigo Casanova
-=================================
+<h1>Rodrigo Casanova</h1>
 
-Im a student at Universidade do Minho
--------------------------------------
+<h2>About Me:</h2>
 
-I´m currently in my first year of Engineering and Management of Information Systems!
+<ul type="square">
+  <li>👨‍🎓  I´m currently in my first year of <ins>Engineering and Management of Information Systems</ins> at <a href="https://www.uminho.pt/EN" rel="external" traget="_blank">Universidade do Minho</a>!</li>
+  <li>📖  I´m currently studying HTML and CSS on my own.</li>
+  <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
+  <li>🌍  I'm based in Braga/Portugal </li>
+  <li>✉️  Send me an <a href = "mailto: rodrigocralha@gmail.com"> Email</a>!</li>
+</ul>
 
-I´m studying OpenGL and C++ on my own as graphics is a toppic that really got my curiosity.
+<h2>Skills:</h2>
 
-Open to colaborate on Open-Source projects for sure!😉
-
-
-* 🌍  I'm based in Braga/Portugal 
-* ✉️  And you can contact me at [rodrigocralha@gmail.com](mailto:rodrigocralha@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<p align="center">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="50" height="50" alt="Go" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="50" height="50" alt="MetaMask" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://numgrade.com/wp-content/uploads/2020/11/Logo_Formations_HTML.png" width="50" height="50" alt="MetaMask" /></a>
 </p>
 
 
