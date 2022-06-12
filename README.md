@@ -1,4 +1,4 @@
-<h1 align="center">Rodrigo Casanova</h1>
+<h1 align="center"><strong><a href="https://www.linkedin.com/in/casanovarodrigo/" target="_blank" rel="external">Rodrigo Casanova</a></strong></h1>
 
 <h2>About Me:</h2>
 
