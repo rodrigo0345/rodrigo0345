@@ -1,4 +1,3 @@
-<img align="left" src="https://fit4rri.eu/wp-content/uploads/2017/08/10-UMINHO-01-768x479.png" height="100" width="160" alt="Universidade do Minho logo">
 <h1 align="">Rodrigo Casanova</h1>
 
 <br>
@@ -25,6 +24,6 @@
 <p align="left"> <a href="https://discord.com/users/Casanöva#2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
 <h2>Stats:</h2>
-<img src="https://opensource.com/sites/default/files/uploads/image4.png" alt="Golang figures looking at a computer" align="right">
+<img src="https://opensource.com/sites/default/files/uploads/image4.png" alt="Golang figures looking at a computer" width="300" align="right">
 <a href="http://www.github.com/rodrigo0345"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo0345&show_icons=true&hide=issues,&count_private=true&title_color=5a5ab9&text_color=ffffff&icon_color=5a5ab9&bg_color=0f172a&hide_border=true&show_icons=true" alt="rodrigo0345's stats" /></a>
 
