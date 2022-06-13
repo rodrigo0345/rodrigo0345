@@ -7,7 +7,7 @@
   <li>📖  I´m currently studying HTML and CSS on my own.</li>
   <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
-  <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com"> Email</a>!</li>
+  <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com">rodrigocralha@gmail.com</a>!</li>
 </ul>
 
 <h2>Skills:</h2>
