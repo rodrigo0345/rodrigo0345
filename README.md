@@ -19,7 +19,7 @@
 
 <h2>Social Media:</h2>
 
-<p align="left"> <a href="https://discord.com/users/Casanöva#2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
 <h2>Stats:</h2>
 <img src="https://opensource.com/sites/default/files/uploads/image4.png" alt="Golang figures looking at a computer" width="300" align="right">
