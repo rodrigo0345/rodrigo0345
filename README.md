@@ -11,9 +11,9 @@
 
 <h2>Skills:</h2>
 <ul type="square">
-  <li>Experience with C and C++</a>.</li>
-  <li>Experience with <a href="https://www.freecodecamp.org/certification/fcc14e961b3-4818-4ae8-8255-d8cc731041f7/scientific-computing-with-python-v7" target="_blank" rel="external">Python</a>.</li>
-  <li>Experience with JavaScript, HTML and CSS.</li>
+  <li>Still learning Rust 🦀</a>.</li>
+  <li>Experience with <a href="https://www.freecodecamp.org/certification/fcc14e961b3-4818-4ae8-8255-d8cc731041f7/scientific-computing-with-python-v7" target="_blank" rel="external">Python</a> and also Java.</li>
+  <li>Experience with Typescript, JavaScript, HTML and CSS.</li>
 </ul>
 
 
