@@ -3,7 +3,7 @@
 <h2>About Me:</h2>
 
 <ul type="square">
-  <li>👨‍🎓  I´m currently in my first year of <ins>Engineering and Management of Information Systems</ins> at <a href="https://www.uminho.pt/EN" rel="external" traget="_blank">Universidade do Minho</a>!</li>
+  <li>👨‍🎓  I´m currently in my third year of <ins>Engineering and Management of Information Systems</ins> at <a href="https://www.uminho.pt/EN" rel="external" traget="_blank">Universidade do Minho</a>!</li>
   <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
   <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com">rodrigocralha@gmail.com</a>!</li>
@@ -11,9 +11,9 @@
 
 <h2>Skills:</h2>
 <ul type="square">
-  <li>Still learning Rust 🦀</a>.</li>
-  <li>Experience with <a href="https://www.freecodecamp.org/certification/fcc14e961b3-4818-4ae8-8255-d8cc731041f7/scientific-computing-with-python-v7" target="_blank" rel="external">Python</a> and also Java.</li>
-  <li>Experience with Typescript, JavaScript, HTML and CSS.</li>
+  <li>Web development lover 👀</a></li>
+  <li>Experience with Nodejs, Typescript, Docker and a loot more...</li>
+  <li>I'm honetly just doing what I like</li>
 </ul>
 
 
