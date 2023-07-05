@@ -12,7 +12,8 @@
 <h2>Skills:</h2>
 <ul type="square">
   <li>Web development lover 👀</a></li>
-  <li>Experience with Nodejs, Typescript, Docker and a loot more...</li>
+  <li>Experience with Nodejs, Typescript, Java and a loot more...</li>
+  <li>I'm right now learning more backend technologies such as Docker, Web security and I'm thrilled to finally finish my portfolio website</li>
   <li>I'm honetly just doing what I like</li>
 </ul>
 
