@@ -7,6 +7,7 @@
   <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
   <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com">rodrigocralha@gmail.com</a>!</li>
+  <li>📃 I'm trying to finish my portfolio website as soon as possible!</li>
 </ul>
 
 <h2>Skills:</h2>
@@ -14,8 +15,6 @@
   <li>Web development lover 👀</a></li>
   <li>Experience with Nodejs, Typescript, Java, CSS, Tailwind and a loot more...</li>
   <li>I'm right now learning Fullstack concepts with <a href="https://frontendmasters.com/courses/" target="_blank">Frontend Masters</a></li>
-  <li>I'm trying to finish my portfolio website as soon as possible!</li>
-  <li>I'm honetly just doing what I like</li>
 </ul>
 
 
