@@ -7,7 +7,6 @@
   <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
   <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com">rodrigocralha@gmail.com</a>!</li>
-  <li>📃 I'm trying to finish my portfolio website as soon as possible!</li>
 </ul>
 
 <h2>Skills:</h2>
