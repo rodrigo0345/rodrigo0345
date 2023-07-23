@@ -24,5 +24,9 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/casanovarodrigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
+<h2>My website:</h2>
+<a href="https://rodrigocasanova.me" target="_blank" rel="external">www.rodrigocasanova.me</a>
+
+
 
 
