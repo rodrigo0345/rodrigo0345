@@ -10,7 +10,6 @@
 
 <h2>Skills:</h2>
 <ul type="square">
-  <li>Web development lover 👀</a></li>
   <li>Experience with Nodejs, Typescript, Java, CSS, Tailwind and a loot more...</li>
   <li>I'm right now learning Fullstack concepts with <a href="https://frontendmasters.com/courses/" target="_blank">Frontend Masters</a></li>
 </ul>
