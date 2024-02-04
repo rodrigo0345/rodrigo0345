@@ -4,7 +4,6 @@
 
 <ul type="square">
   <li>👨‍🎓  I´m currently in my third year of <ins>Engineering and Management of Information Systems</ins> at <a href="https://www.uminho.pt/EN" rel="external" traget="_blank">Universidade do Minho</a>!</li>
-  <li>😶‍🌫️  Open to colaborate on Open-Source projects for sure!</li>
   <li>🌍  I'm based in Braga/Portugal </li>
   <li>✉️  Contact me through <a href = "mailto:rodrigocralha@gmail.com">rodrigocralha@gmail.com</a>!</li>
 </ul>
