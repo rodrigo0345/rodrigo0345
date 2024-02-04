@@ -11,7 +11,7 @@
 <h2>Skills:</h2>
 <ul type="square">
   <li>Experience with Nodejs, Typescript, Java, CSS, Tailwind and a loot more...</li>
-  <li>I'm right now learning Fullstack concepts with <a href="https://frontendmasters.com/courses/" target="_blank">Frontend Masters</a></li>
+  <li>I'm right now learning the ASP.NET 8.0 platform. To be more specific, I am learning how to build/maintain web api, be it minimal or not.</li>
 </ul>
 
 
