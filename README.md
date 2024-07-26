@@ -1,14 +1,12 @@
-# Welcome to My GitHub Profile!
 
-![Main Image](https://your-image-url-here.com/image.png](https://github.com/rodrigo0345/rodrigo0345/blob/main/b-389.jpg)
 
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo0345&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<p align="center">
+  <img style="width:100%; object-fit:cover;" src="https://github.com/rodrigo0345/rodrigo0345/blob/main/b-389.jpg" alt="Main Image"/>
+</p>
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/casanovarodrigo/)
-
+[Website](https://rodrigocasanova.me)
 
 
 
