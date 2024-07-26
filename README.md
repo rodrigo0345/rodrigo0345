@@ -8,7 +8,7 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/casanovarodrigo/)
+[![LinkedIn](https://www.linkedin.com/in/casanovarodrigo/)]
 
 
 
