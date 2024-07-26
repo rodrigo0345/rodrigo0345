@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Main Image](https://your-image-url-here.com/image.png)
+![Main Image](https://your-image-url-here.com/image.png](https://github.com/rodrigo0345/rodrigo0345/blob/main/b-389.jpg)
 
 ## My GitHub Stats
 
